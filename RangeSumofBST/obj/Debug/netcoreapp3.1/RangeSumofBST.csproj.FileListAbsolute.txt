@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\bin\Debug\netcoreapp3.1\RangeSumofBST.exe
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\bin\Debug\netcoreapp3.1\RangeSumofBST.deps.json
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\bin\Debug\netcoreapp3.1\RangeSumofBST.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\bin\Debug\netcoreapp3.1\RangeSumofBST.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\bin\Debug\netcoreapp3.1\RangeSumofBST.dll
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\bin\Debug\netcoreapp3.1\RangeSumofBST.pdb
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\obj\Debug\netcoreapp3.1\RangeSumofBST.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\obj\Debug\netcoreapp3.1\RangeSumofBST.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\obj\Debug\netcoreapp3.1\RangeSumofBST.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\obj\Debug\netcoreapp3.1\RangeSumofBST.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\obj\Debug\netcoreapp3.1\RangeSumofBST.dll
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\obj\Debug\netcoreapp3.1\RangeSumofBST.pdb
+C:\Users\monisha.khapali\source\repos\RangeSumofBST\RangeSumofBST\obj\Debug\netcoreapp3.1\RangeSumofBST.genruntimeconfig.cache
